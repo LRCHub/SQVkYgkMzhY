@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "The Monster",
+  "base_artist": "Eminem",
+  "createdAt": "2026-02-15T06:03:30.656498Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Monster",
+      "artist": "Eminem feat. Rihanna",
+      "has_synced": true,
+      "path": "select/01_The_Monster_Eminem_feat._Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Monster Song",
+      "artist": "Psapp",
+      "has_synced": true,
+      "path": "select/02_The_Monster_Song_Psapp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Monster Song",
+      "artist": "Psapp",
+      "has_synced": true,
+      "path": "select/03_The_Monster_Song_Psapp.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Monster In Me",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/04_The_Monster_In_Me_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eaten By the Monster of Love",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/05_Eaten_By_the_Monster_of_Love_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Inside the Monster",
+      "artist": "Brainstorm",
+      "has_synced": true,
+      "path": "select/06_Inside_the_Monster_Brainstorm.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Monster (feat. Rihanna)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/07_The_Monster_(feat._Rihanna)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Monster Is Loose",
+      "artist": "Meat Loaf",
+      "has_synced": true,
+      "path": "select/08_The_Monster_Is_Loose_Meat_Loaf.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Monster",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/09_The_Monster_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Meet the Monster",
+      "artist": "Five Finger Death Punch",
+      "has_synced": false,
+      "path": "select/10_Meet_the_Monster_Five_Finger_Death_Punch.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Monster",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/11_The_Monster_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Monster Song (From \"KGF Chapter 2 - Tamil\")",
+      "artist": "Ravi Basrur feat. Adithi Sagar",
+      "has_synced": true,
+      "path": "select/12_The_Monster_Song_(From__KGF_Chapter_2_-_Tamil_)_Ravi_Basrur_feat._Adithi_Sagar.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Monster Song",
+      "artist": "Adithi Sagar",
+      "has_synced": true,
+      "path": "select/13_The_Monster_Song_Adithi_Sagar.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Theemai Dhaan Vellum (Awakening the Monster)",
+      "artist": "Hiphop Tamizha feat. Arvind Swamy",
+      "has_synced": true,
+      "path": "select/14_Theemai_Dhaan_Vellum_(Awakening_the_Monster)_Hiphop_Tamizha_feat._Arvind_Swamy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Monster",
+      "artist": "Eminem/Rihanna",
+      "has_synced": true,
+      "path": "select/15_The_Monster_Eminem_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Monster",
+      "artist": "Eminem (ft. Rihanna)",
+      "has_synced": true,
+      "path": "select/16_The_Monster_Eminem_(ft._Rihanna).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Monster",
+      "artist": "Eminem, Rihanna",
+      "has_synced": true,
+      "path": "select/17_The_Monster_Eminem,_Rihanna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Monster",
+      "artist": "Eminem Feat. Rihanna",
+      "has_synced": false,
+      "path": "select/pl_01_The_Monster_Eminem_Feat._Rihanna.txt"
+    }
+  ]
+}
